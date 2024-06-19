@@ -1,2 +1,2 @@
 # Amazonas Shoπ
-App feito em Python simulando uma loja virtual
+App feito em Python, destinado a uso em site, simulando uma loja virtual
