@@ -1,2 +1,2 @@
-# Amazonas_Sho-3.14-
-Projeto Final de LPP
+# Amazonas Shoπ
+App feito em Python simulando uma loja virtual
